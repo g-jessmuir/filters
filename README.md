@@ -1,7 +1,3 @@
 # filters
-Image processing library with C++ and stb image manipulation headers
-
-Filters that are working at the moment:
-- greyscale
-- sharpen
-- mean blur
+Kernel convolutions with all the inefficiencies you could want from a first year engineering student.
+Thanks to stb_image.
